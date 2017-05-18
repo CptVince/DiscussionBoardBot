@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+config.debug.js
+config.release.js
+*_log.txt
+*~
